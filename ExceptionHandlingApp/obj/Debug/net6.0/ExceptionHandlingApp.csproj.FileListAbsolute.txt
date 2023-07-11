@@ -1,0 +1,15 @@
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net6.0\ExceptionHandlingApp.exe
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net6.0\ExceptionHandlingApp.deps.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net6.0\ExceptionHandlingApp.runtimeconfig.json
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net6.0\ExceptionHandlingApp.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\bin\Debug\net6.0\ExceptionHandlingApp.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.csproj.AssemblyReference.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.AssemblyInfoInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.AssemblyInfo.cs
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.csproj.CoreCompileInputs.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\refint\ExceptionHandlingApp.dll
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.pdb
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ExceptionHandlingApp.genruntimeconfig.cache
+C:\Users\surya\Desktop\Kanini\Day 26\SolutionExceptionHandlingApp\ExceptionHandlingApp\obj\Debug\net6.0\ref\ExceptionHandlingApp.dll
